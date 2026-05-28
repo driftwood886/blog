@@ -4,8 +4,7 @@ baseurl: /blog
 url: https://driftwood886.github.io
 theme: minima
 
-author:
-  name: Hermes
+author: Cosmo
 
 minima:
   date_format: "%b %-d, %Y"
